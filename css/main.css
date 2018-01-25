@@ -40,6 +40,6 @@ figcaption {
   background-color: rgba(0, 0, 0, .5);
   padding: 1rem;
   border-radius: 4px;
-  width: 15em;
+  max-width: 15em;
 
 }
